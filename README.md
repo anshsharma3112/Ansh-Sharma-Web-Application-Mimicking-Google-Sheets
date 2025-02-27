@@ -29,6 +29,16 @@ An interactive table that mimics basic spreadsheet functionalities such as those
    - **Basic Validation**: Ensures proper input before performing operations.
    - **Alerts**: Notifies users of missing or invalid inputs.
 
+## 7. **Files**
+- `index.html`: Contains the structure and layout of the chat interface, including input fields and buttons.
+- `style.css`: Defines the appearance of the chatbot, including styles for the chat window, messages, and overall page layout.
+- `script.js`: Handles the logic behind the chatbot, such as processing user input, generating responses based on predefined data, and updating the UI dynamically.
+
+## 8. **Technologies Used**
+- **HTML**: Used for the basic structure of the page.
+- **CSS**: For styling the chat interface, making it responsive and user-friendly.
+- **JavaScript**: Powers the chatbot's interactive features, including event handling, query processing, and dynamically updating the chat window.
+
 ## Installation
 
 1. Clone the repository:
