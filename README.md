@@ -1,4 +1,4 @@
-# Interactive Table
+# Web Application Mimicking Google Sheets
 
 An interactive table that mimics basic spreadsheet functionalities such as those found in Google Sheets. It includes features like editable cells, dynamic data operations, and customizable table settings.
 
