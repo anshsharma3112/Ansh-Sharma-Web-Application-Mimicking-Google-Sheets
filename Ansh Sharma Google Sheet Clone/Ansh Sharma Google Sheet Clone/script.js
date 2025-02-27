@@ -373,3 +373,5 @@ document.getElementById('fontColorPicker').addEventListener('input', function() 
         cell.style.color = color;
     });
 });
+
+console.log("Ansh Sharma")
